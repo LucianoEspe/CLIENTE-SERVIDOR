@@ -1,0 +1,62 @@
+<Reporte>
+  <Inicio>2023-02-24 18:28:06.374756</Inicio>
+  <Robot>
+<Estado>Encendido</Estado>
+  </Robot>
+  <Tiempo>2023-02-24 18:28:11.528911</Tiempo>
+  <Movimiento>
+<X>10</X>
+<Y>20</Y>
+<Z>30</Z>
+<Velocidad>40</Velocidad>
+  </Movimiento>
+  <Tiempo>2023-02-24 18:28:17.009505</Tiempo>
+  <Efector>
+<Estado>Activado</Estado>
+  </Efector>
+  <Tiempo>2023-02-24 18:28:20.207069</Tiempo>
+  <Movimiento>
+<X>-10</X>
+<Y>-20</Y>
+<Z>0</Z>
+<Velocidad>30</Velocidad>
+  </Movimiento>
+  <Tiempo>2023-02-24 18:28:28.752263</Tiempo>
+  <Efector>
+<Estado>Desactivado</Estado>
+  </Efector>
+  <Tiempo>2023-02-24 18:28:35.253920</Tiempo>
+  <Rotacion>
+<Vinculo>1</Vinculo>
+<Angulo>35</Angulo>
+<Sentido>a</Sentido>
+<Velocidad>15</Velocidad>
+  </Rotacion>
+  <Tiempo>2023-02-24 18:28:43.771409</Tiempo>
+  <Rotacion>
+<Vinculo>2</Vinculo>
+<Angulo>20</Angulo>
+<Sentido>h</Sentido>
+<Velocidad>10</Velocidad>
+  </Rotacion>
+  <Tiempo>2023-02-24 18:28:53.461129</Tiempo>
+  <Rotacion>
+<Vinculo>3</Vinculo>
+<Angulo>75</Angulo>
+<Sentido>h</Sentido>
+<Velocidad>5</Velocidad>
+  </Rotacion>
+  <Tiempo>2023-02-24 18:29:04.938711</Tiempo>
+  <Home>
+<X>0</X>
+<Y>0</Y>
+<Z>0</Z>
+  </Home>
+  <Tiempo>2023-02-24 18:29:16.827226</Tiempo>
+  <Robot>
+<Estado>Apagado</Estado>
+  </Robot>
+  <Tiempo>2023-02-24 18:29:25.289311</Tiempo>
+  <Fin>2023-02-24 18:29:30.651129</Fin>
+  <Tiempo total>0 horas 01 minutos 24 segundos</Tiempo total>
+</Reporte>
